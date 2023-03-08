@@ -1,0 +1,44 @@
+@font-face{
+    font-family: "Inter";
+    src: url(./Font/Inter.ttf);
+}
+
+#MainBox{
+     background: linear-gradient(0deg, #DCDCDC, #DCDCDC),
+     linear-gradient(0deg, #FAFAFA, #FAFAFA);
+    width: 562px;
+    height: 790px;
+    margin-left: 450px;
+}
+
+#Image{
+    width: 160px;
+    height: 147px;
+    margin-top: 97px;
+    margin-left: 200px
+}
+
+#SecTitle{
+    width: 273px;
+    height: 40px;
+    margin-top: 66.43px;
+    margin-left: 139px;
+    font-family: Inter;
+    font-size: 30px;
+    font-weight: 700;
+    line-height: 36px;
+    letter-spacing: 0em;
+}
+
+#SecText{
+    width: 476px;
+    height: 311px;
+    margin-top: 59px;
+    margin-left: 43px;
+    text-align: center;
+    font-family: Inter;
+    font-size: 19px;
+    font-weight: 400;
+    line-height: 23px;
+    letter-spacing: 0em;
+}
